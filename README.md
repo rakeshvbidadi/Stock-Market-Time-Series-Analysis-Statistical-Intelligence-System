@@ -299,7 +299,8 @@ Advantages:
 Time Series Decomposition
 
 ```text
-fig1_decomposition.png
+fig1_decomposition.png <img width="2684" height="2079" alt="image" src="https://github.com/user-attachments/assets/6fdabcd4-5e81-4754-940e-51f163495592" />
+
 ```
 
 Shows:
